@@ -3,7 +3,7 @@
 <br>
 
 
-- 👩🏽‍🎓 21 anos, brasileira
+- 👩🏽‍🎓 21 anos
 - 🎓 Faculdade: Análise e Desenvolvimento de Sistemas na Fatec
 - 💼 Trabalho/Estágio: Faturamento na EDP São Paulo 
 
