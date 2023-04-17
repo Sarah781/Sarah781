@@ -5,7 +5,7 @@
 
 - 👩🏽‍🎓 21 anos
 - 🎓 Faculdade: Análise e Desenvolvimento de Sistemas na Fatec
-
+- 👩🏽‍💻 Codifica Ai
 <br>
 
 ##
