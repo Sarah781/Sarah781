@@ -3,9 +3,9 @@
 <br>
 
 
-- 👩🏽‍🎓 21 anos
+- 👩🏽‍🎓 22 anos
 - 🎓 Faculdade: Análise e Desenvolvimento de Sistemas na Fatec
-- 👩🏽‍💻 Codifica Ai
+- 👩🏽‍💻 [Codifica Ai] (https://codificaai.com/)
 <br>
 
 ##
