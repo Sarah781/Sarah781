@@ -2,7 +2,7 @@
 
 <br>
 
-- 👩🏽‍🎓 24 anos
+- 👩🏽‍🎓 25 anos
 - 🎓 Graduada em: Análise e Desenvolvimento de Sistemas, pela instituição [Fatec SJC](https://fatecsjc-prd.azurewebsites.net/)
 <br>
 
